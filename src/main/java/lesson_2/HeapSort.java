@@ -1,6 +1,7 @@
 package lesson_2;
 
 public class HeapSort {
+
     public void sort(int arr[]) {
         int n = arr.length;
 
